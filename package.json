@@ -1,0 +1,15 @@
+{
+  "name": "hapi-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": "git@github.com:arjunepr/simple-hapi-api.git",
+  "author": "Arjun Raju Pillai <revarjunr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^16.5.0",
+    "nodemon": "^1.11.0"
+  }
+}
